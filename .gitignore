@@ -1,7 +1,8 @@
 # Ingoringg __pychache__ folder
-__pychache__
+__pychache__/
 
 # Ignoring env folder
-env
+env/
 
 #Ignoring .env file
+.env
