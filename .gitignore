@@ -1,0 +1,9 @@
+# Ingoringg __pychache__ folder
+__pycache__/
+*.py[cod]
+
+# Ignoring env folder
+env/
+
+#Ignoring .env file
+.env
