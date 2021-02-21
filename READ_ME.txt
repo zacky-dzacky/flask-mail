@@ -1,2 +1,0 @@
-Generate password for gmail
-https://myaccount.google.com/apppasswords?rapt=AEjHL4Mo0fo8ok0r0DgIVY1M1diV6YOFO4Uh51C6eMOsyGqlsZWrR5rSM9saAkkq2wt3Jxu2LGdx6BoBw3pyPp8yHeqB_GY8vw

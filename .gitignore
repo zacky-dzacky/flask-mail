@@ -1,8 +1,0 @@
-# Ingoringg __pychache__ folder
-__pychache__/
-
-# Ignoring env folder
-env/
-
-#Ignoring .env file
-.env
